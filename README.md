@@ -1,2 +1,5 @@
 # Generating-Keywords-for-Google-Ads
-this repo contains the code for generating keywords for google ads
+This repo contains the code for generating keywords for google ads
+
+## Problem Statement
+Automatically generate keywords for a search engine marketing campaign using Python.
